@@ -39,4 +39,5 @@ _Now your environment is ready to build application. Dependencies will be instal
 2. Multiple components
 
    9. [Composing Components: ](09-composing-components) Multiple components and Components inside components.
-   10. [Passing data in components: ](10-passing-data-to-components) By using "obj.props.parameter"
+   10. [Passing data in components: ](10-passing-data-to-components) By using "obj.props.parameter", passing javascript data.
+   11. [Passing children: ](11-passing-children) Pass pre-rendered children which will be accessed by calling "obj.prop.children".
