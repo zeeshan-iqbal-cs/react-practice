@@ -35,7 +35,7 @@ buttonClick = () => {
 
 ```
 
-2. Using "Arrow function"
+2. Passing parameter
 
 ```
 // Function- with parameter
