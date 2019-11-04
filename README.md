@@ -30,5 +30,6 @@ _Now your environment is ready to build application. Dependencies will be instal
 1. [Setting attributes: ](03-setting-attributes)Dynamically setting attributes in JSX code.
 1. [Rendering Lists: ](04-rendering-lists)Rendering a list of elemnts.
 1. [Conditional Rendering: ](05-conditional-rendering)Choosing between rendering a list or paragragh based upon data.
-1. [Event Handeling: ](05-handeling-event) Which includes hadeling events like button pressing etc.
+1. [Event Handeling: ](06-handeling-event) Which includes hadeling events like button pressing etc.
 1. [Binding Event Handeler: ](07-binding-event-handeler) Attaching the Event handeling function with object.
+1. [Updating state: ](08-updating-state) Updating the state from event functions.
